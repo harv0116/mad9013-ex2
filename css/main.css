@@ -26,7 +26,7 @@ nav ul {
     background-color: #b58900;
 }
 
-.wrapper .dfn strong.second {
+.dfn p + strong {
     color: #fff;
 }
 
